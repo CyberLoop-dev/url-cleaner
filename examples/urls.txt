@@ -1,0 +1,1 @@
+https://example.com/article?utm_source=newsletter&id=42\nhttps://EXAMPLE.com/article?id=42&utm_medium=email\nhttps://docs.example.test/start?ref=sidebar\n
